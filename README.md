@@ -1,4 +1,3 @@
-
 # Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nicknjagi/product-preview-card)
-- Live Site URL: [Add live site URL here](https://nicknjagi.github.io/product-preview-card/)
+- Solution URL: [GitHub repo](https://github.com/nicknjagi/product-preview-card)
+- Live Site URL: [https://github.com/nicknjagi/product-preview-card](https://nicknjagi.github.io/product-preview-card/)
 
 ## My process
 
@@ -56,13 +55,15 @@ The code below is how I used it:
         </picture>
 ```
 
+
 ### Continued development
 
 I am going to continue focusing on responsive web design principles, CSS flexbox and CSS grid.
 
+
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - This helped me learn on how to use the picture tag for responsive images.
+- [Resource 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - This helped me learn on how to use the picture tag for responsive images.
 
 ## Author
 
