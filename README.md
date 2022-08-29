@@ -74,6 +74,5 @@ I am going to continue focusing on responsive web design principles, CSS flexbox
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.JPG)
 
-## Welcome! 👋
 
 
