@@ -70,4 +70,10 @@ I am going to continue focusing on responsive web design principles, CSS flexbox
 - Frontend Mentor - [@nicknjagi](https://www.frontendmentor.io/profile/nicknjagi)
 - Twitter - [@nick_njagi](https://www.twitter.com/nick_njagi)
 
+# Frontend Mentor - QR code component
+
+![Design preview for the QR code component coding challenge](./design/desktop-preview.JPG)
+
+## Welcome! 👋
+
 
